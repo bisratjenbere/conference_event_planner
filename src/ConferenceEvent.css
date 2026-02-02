@@ -252,7 +252,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 20px;
+    padding: 20px 53px;
     background-color:#133b6a;
     color: white;
     width: 100vw;
@@ -265,7 +265,8 @@
   }
   .nav_links{
     display: flex;
-    gap: 170px;
+    gap: 5rem;
+    margin-left: 4rem;
   }
   .left_navbar{
     width: 60vw;
